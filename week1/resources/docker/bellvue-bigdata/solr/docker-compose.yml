@@ -8,7 +8,6 @@ services:
       - solr_data:/var/solr
     environment:
       - SOLR_HOME=/var/solr
-    restart: always
 
 volumes:
   solr_data:
