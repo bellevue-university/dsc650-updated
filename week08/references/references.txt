@@ -1,0 +1,1 @@
+Solr Query: https://solr.apache.org/guide/solr/latest/query-guide/query-syntax-and-parsers.html
